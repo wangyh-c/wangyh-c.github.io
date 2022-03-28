@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+## Introduction to Wang Yang Hao
 
-You can use the [editor on GitHub](https://github.com/wangyh-c/wangyh-c.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- #### Wang Yang Hao
+- #### Senior Backend Python Developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skills
 
-### Markdown
+- Current Main Project: Odoo
+  - Mainly worked on version 12 and 14
+  - Classic JavaScript Framework and New Framework: OWL
+  - Familiar with the ERP workflow of foreign trade companies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- IT Infrastructure
+  - CI & CD (Implement with Gitlab and Jenkins)
 
-```markdown
-Syntax highlighted code block
+- Python
+  - Django
+  - Flask
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+- Tools
 
-**Bold** and _Italic_ and `Code` text
+<table style="margin-left: 40px;">
+<tr>
+<td>Linux</td>
+<td>Docker</td>
+<td></td>
+</tr>
+<tr>
+<td>Gitlab</td>
+<td>Jenkins</td>
+<td>Redmine</td>
+</tr>
+<tr>
+<td>Pycharm</td>
+<td>PostgreSQL</td>
+<td></td>
+</tr>
+</table>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangyh-c/wangyh-c.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Work & Education
 
-### Support or Contact
+<div>
+  <div>
+  <h6>Work</h6>
+  <b>Chintech Electronic Limited Company</b>
+  <br/>
+  <b>Dec 2018 - Mar 2022</b>
+    <ul>
+      <li>
+      The first year, the mail work is collect CRM, DMS system requirements form Netherlands workmate and implement it in Odoo.
+      </li>
+      <li>
+      The main work in the second year is to build our own development structure.  
+      It's main purpose is guaranteeing our code quality and optimize customer's requirements management.
+      </li>
+      <li>
+      In the third year, main work is put the whole system into practice, improve the user interface and experience, 
+      and migrate our code to version 14.
+      </li>
+    </ul>
+  </div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  <div>
+  <h6>Education</h6>
+  <b>University of South China</b>
+  <br/>
+  <b>Sep 2015 - Jun 2019</b>
+  <p>I graduated from software engineering major in the University of South China</p>
+  </div>
+</div>
+
+
+### Contact
+
+Email me at <a>wangyh.c@gmail.com</a>.
